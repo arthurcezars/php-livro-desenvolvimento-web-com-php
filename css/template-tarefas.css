@@ -1,0 +1,38 @@
+a {
+    margin-bottom: 25px;
+}
+
+form {
+    width: 940px;
+    margin: 0 auto;
+}
+
+input, textarea {
+    display: block;
+}
+
+.wide {
+    width: 100%;
+}
+
+.prioridade input {
+    display: inline;
+}
+
+.tarefa {
+    display: inline;
+}
+
+.cadastrar {
+    float: right;
+    margin-top: 25px;
+}
+
+table {
+    width: 940px;
+    margin: 0 auto;
+}
+
+td {
+    text-align: center;
+}
